@@ -14,7 +14,7 @@
 - 🧼 Clipboard auto-clear + auto-lock after inactivity
 - 🧱 Tamper detection
 - 📊 Export/import entries (with merge or overwrite modes)
-- 💻 GUI using `tkinter`, cross-platform support
+- 💻 GUI was made using `tkinter`, cross-platform support
 
 ---
 
