@@ -26,3 +26,11 @@
 
 ```bash
 pip install cryptography argon2-cffi
+```
+
+---
+
+## 📬 Contact
+
+Questions, feedback, or requests for reuse/publication?  
+Join my Discord: [discord.gg/jjkU7FWzht](https://discord.gg/jjkU7FWzht)
