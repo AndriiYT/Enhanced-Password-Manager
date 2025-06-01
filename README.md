@@ -41,3 +41,4 @@ Join my Discord: [discord.gg/jjkU7FWzht](https://discord.gg/jjkU7FWzht)
 
 I am trying to fix continuous fake file generation, but I can't.  
 To disable it, comment out the line 932: `create_fake_files(app_dir)`
+And it'll stop!
