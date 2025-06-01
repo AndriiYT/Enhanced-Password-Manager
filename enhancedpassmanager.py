@@ -362,7 +362,7 @@ class EnhancedPasswordManagerApp(tk.Tk):
         self.search_var = tk.StringVar()
         self.search_var.trace("w", self._update_listbox)
         search_entry = tk.Entry(self, textvariable=self.search_var, font=('Arial', 10))
-        search_entry.grid(row=0, column=1, columnspan=3, sticky='we', padx=5, pady=5)
+        search_entry.grid(row=0, column=1, sticky='we', padx=5, pady=5)
         
         self._setup_entry_fields()
         self._setup_action_buttons()
